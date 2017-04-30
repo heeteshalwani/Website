@@ -1,0 +1,2 @@
+# FemTechShare2017
+FEMTech is the first organization at UC Berkeley dedicated to excelling women across all majors in the tech industry. FEMTech Share is the educational subdivision of the club. Our vision is to teach students who have never touched a line of code the basics of web design and development.  This repo includes the 'official solutions' to weekly labs that will guide them through the HTML, CSS, and JavaScript needed to build their very own website in just 10 weeks.
