@@ -1,8 +1,25 @@
-.project h4, h3{
+.footcontainer2{
+	text-align: center;
+}
+.footcontainer2:after{
+	content: "Connect with me";
+}
+.project{
+	margin-bottom: 1.5em;
+}
+ul.nobullet{
+	height: 55px;
+}
+ct h4, h3{
 	line-height: 0.1em
+}
+.nobullet li{
+	list-style-type: none;
+	display: inline-block;
 }
 .project h3{
 	font-style: italic;
+	margin:0;
 }
 .project h4{
 	font-weight:500;
@@ -11,6 +28,10 @@
 	width:80%;
 	overflow:auto;
 
+}
+.connect {
+	border-radius: none;
+	border:none;
 }
 .imagebehave{
 	float:right;

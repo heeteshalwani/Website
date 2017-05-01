@@ -1706,7 +1706,7 @@
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 0 0 0.25em 0;
 	}
 
 		p.content {
@@ -2335,15 +2335,16 @@
 
 		.icon.alt {
 			display: inline-block;
-			border: solid 1px;
-			border-radius: 100%;
+			margin:10px 10px;
+			border-radius: 50%;
+			width: 50px;
+			height:50px;
+			padding: 5px 5px;
 		}
 
 			.icon.alt:before {
 				display: block;
 				font-size: 1.25em;
-				width: 2em;
-				height: 2em;
 				text-align: center;
 				line-height: 2em;
 			}
@@ -2486,13 +2487,7 @@
 
 	ul {
 		list-style: disc;
-		margin: 0 0 2em 0;
-		padding-left: 1em;
 	}
-
-		ul li {
-			padding-left: 0.5em;
-		}
 
 		ul.alt {
 			list-style: none;
